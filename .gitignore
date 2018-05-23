@@ -1,6 +1,7 @@
 
 *.pkl
 *.txt
+!README.txt
 playground2.py
 playground3.py
 playground4.py

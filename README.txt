@@ -1,4 +1,4 @@
-(in progress)
+(in progress - THIS IS NOT A WORKING PROGRAM)
 
 Game inspired by Gladiatus
 ___________________________________

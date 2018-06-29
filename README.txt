@@ -7,6 +7,9 @@ This is a first big project of mine - estimate it on 300+ hours of work to compl
 I am nowhere near the end (maybe like 10% completed) and I already would write it much better, 
 so I treat this code just as kind of prototype.
 
+I used things like numpy, threading.
+
+
 TODO:
 - serious refactors needed (especially "DRY"-related, function names)
 - GUI

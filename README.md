@@ -19,7 +19,8 @@ TODO:
 
 
 
-(in progress - THIS IS NOT A WORKING PROGRAM)  
+This project is in progress
+:warning:__It is not completed, working program__:warning:
 
 ## __General Info__
 Realtime RPG game, inspired by <a href src="https://ir.gladiatus.gameforge.com/game/">Gladiatus</a>.
@@ -42,7 +43,8 @@ This is a first big project of mine - estimate it on 300+ hours of work to compl
 
 ## __Setup__
 
-__This is not a completed, working program__
+This project is in progress
+:warning:__It is not completed, working program__:warning:
    
 These instructions will get you a copy of the project on your local machine for development and testing purposes
 
@@ -69,5 +71,5 @@ These instructions will get you a copy of the project on your local machine for 
     
 
 ### Thoughts
-  I am nowhere near the end (maybe like 10% completed) and I already would write it much better, 
+   I am nowhere near the end (maybe like 10% completed) and I already would write it much better, 
 so I treat this code just as kind of prototype.

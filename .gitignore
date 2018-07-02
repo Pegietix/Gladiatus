@@ -6,3 +6,6 @@ playground2.py
 playground3.py
 playground4.py
 timer2.py
+.idea
+venv
+__pycache__

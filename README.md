@@ -23,7 +23,7 @@ This project is in progress
 :warning:__It is not completed, working program__:warning:
 
 ## __General Info__
-Realtime RPG game, inspired by <a href src="https://ir.gladiatus.gameforge.com/game/">Gladiatus</a>.
+Realtime RPG game, inspired by <a href src="https://pl.gladiatus.gameforge.com/game/">Gladiatus</a>.
 This is a first big project of mine - estimate it on 300+ hours of work to complete it.
 
 

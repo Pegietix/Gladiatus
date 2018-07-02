@@ -11,7 +11,7 @@ TODO:
 
 
 This project is in progress  
-:warning: __It is not completed, working program__ :warning: :sparkles:
+:warning: It is not completed, working program :warning: :sparkles:
 
 ## __General Info__
 Realtime RPG game, inspired by <a target="_blank" rel="noopener noreferrer" href="https://pl.gladiatus.gameforge.com/game/">Gladiatus</a>.

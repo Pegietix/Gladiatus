@@ -1,13 +1,4 @@
-(in progress - THIS IS NOT A WORKING PROGRAM)
 
-Game inspired by Gladiatus
-___________________________________
-
-This is a first big project of mine - estimate it on 300+ hours of work to complete it.
-I am nowhere near the end (maybe like 10% completed) and I already would write it much better, 
-so I treat this code just as kind of prototype.
-
-I used things like numpy, threading.
 
 
 TODO:
@@ -19,8 +10,8 @@ TODO:
 
 
 
-This project is in progress
-:warning:__It is not completed, working program__:warning:
+This project is in progress  
+:warning: __It is not completed, working program__ :warning: :sparkles:
 
 ## __General Info__
 Realtime RPG game, inspired by <a target="_blank" rel="noopener noreferrer" href="https://pl.gladiatus.gameforge.com/game/">Gladiatus</a>.
@@ -43,8 +34,8 @@ This is a first big project of mine - estimate it on 300+ hours of work to compl
 
 ## __Setup__
 
-This project is in progress
-:warning:__It is not completed, working program__:warning:
+This project is in progress  
+:warning: __It is not completed, working program__ :warning: :sparkles:
    
 These instructions will get you a copy of the project on your local machine for development and testing purposes
 

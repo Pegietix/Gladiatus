@@ -18,7 +18,7 @@ https://cdn.shopify.com/s/files/1/0185/5092/products/places-0080_800x.png?v=1369
 
 
 This project is in progress  
-<img src="https://cdn.shopify.com/s/files/1/0185/5092/products/places-0080_800x.png?v=1369544059" alt="drawing" width="13px"/> It is not completed, working program <img src="https://cdn.shopify.com/s/files/1/0185/5092/products/places-0080_800x.png?v=1369544059" alt="drawing" width="13px"/>
+<img src="https://cdn.shopify.com/s/files/1/0185/5092/products/places-0080_800x.png?v=1369544059" alt="drawing" width="25px"/> It is not completed, working program <img src="https://cdn.shopify.com/s/files/1/0185/5092/products/places-0080_800x.png?v=1369544059" alt="drawing" width="25px"/>
 
 ## __General Info__
 Realtime RPG game, inspired by <a target="_blank" rel="noopener noreferrer" href="https://pl.gladiatus.gameforge.com/game/">Gladiatus</a>.

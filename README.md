@@ -40,7 +40,7 @@ This is a first big project of mine - estimate it on 300+ hours of work to compl
      * 
 
 
-## __Setup__
+## <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> __Setup__
 
 This project is in progress  
 :warning: __It is not completed, working program__ :warning: :sparkles:

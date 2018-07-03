@@ -18,7 +18,7 @@ icons
 
 
 This project is in progress  
-:warning: It is not completed, working program :warning: :sparkles:
+&#9888; It is not completed, working program :warning: :sparkles:
 
 ## __General Info__
 Realtime RPG game, inspired by <a target="_blank" rel="noopener noreferrer" href="https://pl.gladiatus.gameforge.com/game/">Gladiatus</a>.

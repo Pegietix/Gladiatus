@@ -14,11 +14,11 @@ icons! :sparkles:
 
 icons
 
-
+https://cdn.shopify.com/s/files/1/0185/5092/products/places-0080_800x.png?v=1369544059
 
 
 This project is in progress  
-&#9888; It is not completed, working program &#9888;
+<img src="https://cdn.shopify.com/s/files/1/0185/5092/products/places-0080_800x.png?v=1369544059" alt="drawing" width="13px"/> It is not completed, working program <img src="https://cdn.shopify.com/s/files/1/0185/5092/products/places-0080_800x.png?v=1369544059" alt="drawing" width="13px"/>
 
 ## __General Info__
 Realtime RPG game, inspired by <a target="_blank" rel="noopener noreferrer" href="https://pl.gladiatus.gameforge.com/game/">Gladiatus</a>.

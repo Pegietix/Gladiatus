@@ -1,9 +1,4 @@
-<!-- svg rails helper -->
-<%= octicon "alert" %>
-
-<!-- svg jekyll helper -->
-{% octicon alert %}
-
+&#9888;
 
 TODO:
 - serious refactors needed (especially "DRY"-related, function names)

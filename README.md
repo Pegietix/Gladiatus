@@ -22,8 +22,8 @@ This is a first big project of mine - estimate it on 300+ hours of work to compl
      * os
      * time
 
-### Further development
-#### To do:
+### __Further development__
+#### __To do:__
  * serious refactors needed
  * GUI
  * adding a plethora of badass functions and mechanisms

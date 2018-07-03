@@ -1,20 +1,4 @@
-&#9888;
 
-TODO:
-- serious refactors needed (especially "DRY"-related, function names)
-- GUI
-- adding a plethora of badass functions and mechanisms
-
-
-icons! :sparkles:
-
-:sparkles: icons
-
-:sparkles:
-
-icons
-
-https://cdn.shopify.com/s/files/1/0185/5092/products/places-0080_800x.png?v=1369544059
 
 
 
@@ -23,6 +7,12 @@ https://cdn.shopify.com/s/files/1/0185/5092/products/places-0080_800x.png?v=1369
 ## __General Info__
 Realtime RPG game, inspired by <a target="_blank" rel="noopener noreferrer" href="https://pl.gladiatus.gameforge.com/game/">Gladiatus</a>.
 This is a first big project of mine - estimate it on 300+ hours of work to complete it.
+
+#### Further development
+###### To do:
+ * serious refactors needed
+ * GUI
+ * adding a plethora of badass functions and mechanisms
 
 
 ### __Technologies__

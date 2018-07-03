@@ -7,7 +7,7 @@
 
 ## __General Info__
 Realtime RPG game, inspired by <a target="_blank" rel="noopener noreferrer" href="https://pl.gladiatus.gameforge.com/game/">Gladiatus</a>.
-This is a first big project of mine - estimate it on 300+ hours of work to complete it.
+This is a first big project of mine - estimate it on 300+ hours of work to complete.
 
 #### Further development
 ###### To do:

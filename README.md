@@ -9,12 +9,6 @@
 Realtime RPG game, inspired by <a target="_blank" rel="noopener noreferrer" href="https://pl.gladiatus.gameforge.com/game/">Gladiatus</a>.
 This is a first big project of mine - estimate it on 300+ hours of work to complete.
 
-#### Further development
-###### To do:
- * serious refactors needed
- * GUI
- * adding a plethora of badass functions and mechanisms
-
 
 ### __Technologies__
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> __Python__ 3.6.5 
@@ -27,7 +21,12 @@ This is a first big project of mine - estimate it on 300+ hours of work to compl
      * datetime
      * os
      * time
-     * 
+
+### Further development
+#### To do:
+ * serious refactors needed
+ * GUI
+ * adding a plethora of badass functions and mechanisms
 
 
 ## __Setup__

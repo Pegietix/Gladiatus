@@ -1,4 +1,8 @@
+<!-- svg rails helper -->
+<%= octicon "alert" %>
 
+<!-- svg jekyll helper -->
+{% octicon alert %}
 
 
 TODO:
@@ -40,7 +44,7 @@ This is a first big project of mine - estimate it on 300+ hours of work to compl
      * 
 
 
-## <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> __Setup__
+## __Setup__
 
 This project is in progress  
 :warning: __It is not completed, working program__ :warning: :sparkles:

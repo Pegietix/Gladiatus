@@ -34,7 +34,7 @@ This is a first big project of mine - estimate it on 300+ hours of work to compl
   
 :warning: __This project is in progress. It is not completed, working program__ :warning:
    
-These instructions will get you a copy of the project on your local machine for development and testing purposes
+These instructions will get you a copy of the project on your local machine for development and testing purposes.
 
 ### __Prerequisites__
 
